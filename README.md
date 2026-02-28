@@ -1,5 +1,3 @@
-# README
-
 # git-practice-reshetnikova
 practice 1
 # Git Practice
@@ -13,4 +11,4 @@ practice 1
 - Как создавать коммиты через интерфейс
 - Как отправлять изменения на GitHub
 
-## Работа через Pull Request
+## Работа через Pull Request  
